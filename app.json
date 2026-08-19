@@ -25,6 +25,7 @@
       "package": "com.anonymous.clickyjm"
     },
     "web": {
+      "bundler": "metro",
       "favicon": "./assets/favicon.png"
     }
   }
